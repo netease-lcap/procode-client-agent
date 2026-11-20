@@ -2,7 +2,7 @@
 
 此目录包含 Skill、管理脚本和带校验的 client 安装包，不使用 MODS。不要只复制 SKILL.md。
 
-解压保留此目录后，在本机运行以下命令注册本地市场并安装，再在 Wave 桌面端已有会话重载插件：
+将 ZIP 解压到一个独立目录（ZIP 内没有额外的顶层目录），在本机运行以下命令注册本地市场并安装，再在 Wave 桌面端已有会话重载插件：
 
     wave plugin marketplace add "/绝对路径/本插件目录"
     wave plugin install procode-client-agent@procode-client-local
