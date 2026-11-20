@@ -1,0 +1,13 @@
+{
+  "name": "procode-client-local",
+  "owner": {
+    "name": "ProCode"
+  },
+  "plugins": [
+    {
+      "name": "procode-client-agent",
+      "source": "./plugin",
+      "description": "本地构建的 ProCode client 启动 Skill"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "procode-client-agent",
+  "version": "0.0.1",
+  "description": "ProCode client 流水线启动与交互页面入口",
+  "author": {
+    "name": "ProCode"
+  }
+}
